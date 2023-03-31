@@ -1,4 +1,5 @@
 def str_to_upper(str_inp: str) -> str:
+    '''Преобразовываем в заглавные буквы'''
     return str_inp.upper()
 
 
